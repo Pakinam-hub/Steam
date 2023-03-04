@@ -1,0 +1,32 @@
+.accordion{
+  width: 700px;
+}
+
+.item{
+  background: #1301298f;
+  margin-bottom: 7px;
+  padding: 10px 20px;
+  text-shadow: none;
+  border-radius: 0.5rem;
+}
+
+.question{
+  color: rgb(247, 242, 238);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  margin-bottom: 5px;
+}
+
+.answer{
+  max-height: 0;
+  overflow: hidden;
+  transition: all 0.5s cubic-bezier(0,1,0,1);
+}
+
+.answer.show{
+  height: auto;
+  max-height: 9999px;
+  transition: all 0.5s cubic-bezier(1,0,1,0);
+}

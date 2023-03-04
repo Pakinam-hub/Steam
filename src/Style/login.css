@@ -1,0 +1,83 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+
+}
+
+.cover{
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    position: relative;
+    flex-direction: row;
+    padding: 5vw ;
+    color: rgb(228, 175, 135);
+    text-shadow: 2px 2px 2px rgb(104, 57, 57);
+    font-weight: bold;
+
+
+
+}
+.cover label{
+    font-size: 20px;
+
+}
+
+.cover input{
+    width: 100%;
+    padding: .5rem .8rem .5rem .8rem;
+    margin: .9vw 0 ;
+    border:0;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.cover .glass{
+    display: block;
+    padding: 40px;
+    width: 90vh;
+
+}
+
+.cover button{
+    
+    width: 23%;
+    height: 2rem;
+    color: rgb(64, 31, 31);
+    border: 0;
+    bottom: 0;
+    cursor: pointer;
+    font-size: 20px;
+    margin-top: 4%;
+    position: relative;
+    border-radius: 5px;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
+.form {
+    margin-top: 10px;
+    margin-left: 15px;
+
+}
+
+.form span{
+    margin-left: 35%;
+    
+}
+
+.cover.signup{
+    height: 120vh;
+
+
+}
+
+.signup button{
+    width: 40%;
+}
+
