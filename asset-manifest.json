@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Steam/static/css/main.e3f25c78.css",
+    "main.js": "/Steam/static/js/main.509e38ff.js",
+    "static/media/fantasy1.mp4": "/Steam/static/media/fantasy1.a663b43c8e79d1cb9802.mp4",
+    "static/media/spiderman.png": "/Steam/static/media/spiderman.57e5146175a42b240743.png",
+    "static/media/Density.jpg": "/Steam/static/media/Density.bf70bb544c5b7c9d7d87.jpg",
+    "static/media/header.jpg": "/Steam/static/media/header.a7df2d90c880291d99f9.jpg",
+    "static/media/game.jpg": "/Steam/static/media/game.e7bca50d8466c2abf153.jpg",
+    "static/media/game1.jpg": "/Steam/static/media/game1.19ac87e3f3e033ddd711.jpg",
+    "static/media/game2.jpg": "/Steam/static/media/game2.13c247667acea0c905a5.jpg",
+    "index.html": "/Steam/index.html",
+    "main.e3f25c78.css.map": "/Steam/static/css/main.e3f25c78.css.map",
+    "main.509e38ff.js.map": "/Steam/static/js/main.509e38ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3f25c78.css",
+    "static/js/main.509e38ff.js"
+  ]
+}
