@@ -6,7 +6,6 @@ import game1 from './game1.jpg';
 import game2 from './game2.jpg';
 import game from './game.jpg';
 import spiderman from './spiderman.png'
-import density from './Density.jpg'
 
 
 const Home = () => {
