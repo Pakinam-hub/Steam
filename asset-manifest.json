@@ -1,20 +1,19 @@
 {
   "files": {
-    "main.css": "/static/css/main.e3f25c78.css",
-    "main.js": "/static/js/main.24fdd6a4.js",
-    "static/media/fantasy1.mp4": "/static/media/fantasy1.a663b43c8e79d1cb9802.mp4",
-    "static/media/spiderman.png": "/static/media/spiderman.57e5146175a42b240743.png",
-    "static/media/Density.jpg": "/static/media/Density.bf70bb544c5b7c9d7d87.jpg",
-    "static/media/header.jpg": "/static/media/header.a7df2d90c880291d99f9.jpg",
-    "static/media/game.jpg": "/static/media/game.e7bca50d8466c2abf153.jpg",
-    "static/media/game1.jpg": "/static/media/game1.19ac87e3f3e033ddd711.jpg",
-    "static/media/game2.jpg": "/static/media/game2.13c247667acea0c905a5.jpg",
-    "index.html": "/index.html",
-    "main.e3f25c78.css.map": "/static/css/main.e3f25c78.css.map",
-    "main.24fdd6a4.js.map": "/static/js/main.24fdd6a4.js.map"
+    "main.css": "/Steam/static/css/main.b9cf03ed.css",
+    "main.js": "/Steam/static/js/main.d1b163a1.js",
+    "static/media/fantasy1.mp4": "/Steam/static/media/fantasy1.a663b43c8e79d1cb9802.mp4",
+    "static/media/spiderman.png": "/Steam/static/media/spiderman.57e5146175a42b240743.png",
+    "static/media/header.jpg": "/Steam/static/media/header.a7df2d90c880291d99f9.jpg",
+    "static/media/game.jpg": "/Steam/static/media/game.e7bca50d8466c2abf153.jpg",
+    "static/media/game1.jpg": "/Steam/static/media/game1.19ac87e3f3e033ddd711.jpg",
+    "static/media/game2.jpg": "/Steam/static/media/game2.13c247667acea0c905a5.jpg",
+    "index.html": "/Steam/index.html",
+    "main.b9cf03ed.css.map": "/Steam/static/css/main.b9cf03ed.css.map",
+    "main.d1b163a1.js.map": "/Steam/static/js/main.d1b163a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.e3f25c78.css",
-    "static/js/main.24fdd6a4.js"
+    "static/css/main.b9cf03ed.css",
+    "static/js/main.d1b163a1.js"
   ]
 }
