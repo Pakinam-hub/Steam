@@ -36,7 +36,7 @@ const App = () => {
       
 
         <Routes>
-          <Route path="/" exact element={<Home />} />
+          <Route path="/steam" exact element={<Home />} />
           <Route path="/Login" element={<Login />} />
           <Route path="/Store" element={<Store handleClick={handleClick} /> } />
           <Route path="/Support" element={<Support />} />

@@ -9,7 +9,7 @@ const Navbar = ({ setShow, size }) => {
     return (
         <nav>
             <div className="nav_box">
-            <Link to="/" className="site-title">
+            <Link to="/steam" className="site-title">
         <h1>STEAM</h1>
       </Link>
       <ul>

@@ -9,6 +9,8 @@ body {
   background: linear-gradient(to right bottom, #070933, #533a69, rgba(40, 197, 225, 0.438));
   justify-content: center;
   align-items: center;
+  min-height: 100vh;
+
 
 }
 
